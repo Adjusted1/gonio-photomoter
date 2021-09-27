@@ -1,0 +1,8 @@
+tabbing still wrong
+iesna not being filled with test data (test/manufactor/tec)
+raw data should write out as it is collected
+
+stability test:
+15 min readings
+3 readings
+<0.5% difference

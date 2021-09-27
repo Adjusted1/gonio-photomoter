@@ -1,0 +1,31 @@
+Classes
+	Name
+		CamelCase
+
+Methods
+	Public
+		CamelCase 
+
+	Private
+		CamelCase 
+
+	Parameters
+		lowerCamelCase
+
+Variable
+	Public Property/Field
+		CamelCase 
+
+	Private Member
+		_lowerCamelCase 
+
+	Local Variable
+		lowerCamelCase 
+
+Controls
+	Name
+		lowerCamelCase
+		Hungarian-shorthand (TextBox => txtCamelCase)
+
+	Events
+		LowerCamelCase_Method (example: txtCamelCase_Changed)

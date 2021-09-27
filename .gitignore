@@ -1,0 +1,31 @@
+
+*.suo
+
+/Ametek Power Controller/bin
+/Ametek Power Controller/obj
+/Ametek Power Controller Tests/bin
+/Ametek Power Controller Tests/obj
+
+/Goniometer/bin
+/Goniometer/obj
+
+/Goniometer Controller/bin
+/Goniometer Controller/obj
+
+/Goniometer Tests/bin
+/Goniometer Tests/obj
+
+/Minolta Controller/bin
+/Minolta Controller/obj
+
+/Xitron Controller/bin
+/Xitron Controller/obj
+/Xitron Controller Tests/bin
+/Xitron Controller Tests/obj
+
+/Simpler Logger/bin
+/Simpler Logger/obj
+
+/TestResults
+*.testsettings
+

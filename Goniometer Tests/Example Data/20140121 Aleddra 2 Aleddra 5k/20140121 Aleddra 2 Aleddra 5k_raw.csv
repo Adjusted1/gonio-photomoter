@@ -1,0 +1,740 @@
+T10,COM7,0,82.5,Illuminance - Ev (fcd),0.287
+CL200,COM6,0,82.5,Color - U',0.2061
+CL200,COM6,0,82.5,Color - V',0.488
+CL200,COM6,0,82.5,Color - CorrelatedTemp,5156
+CL200,COM6,0,82.5,Color - DeltaUV,0.0053
+T10,COM7,10,82.5,Illuminance - Ev (fcd),0.276
+CL200,COM6,10,82.5,Color - U',0.2061
+CL200,COM6,10,82.5,Color - V',0.488
+CL200,COM6,10,82.5,Color - CorrelatedTemp,5158
+CL200,COM6,10,82.5,Color - DeltaUV,0.0053
+T10,COM7,20,82.5,Illuminance - Ev (fcd),0.261
+CL200,COM6,20,82.5,Color - U',0.2061
+CL200,COM6,20,82.5,Color - V',0.4877
+CL200,COM6,20,82.5,Color - CorrelatedTemp,5166
+CL200,COM6,20,82.5,Color - DeltaUV,0.0052
+T10,COM7,30,82.5,Illuminance - Ev (fcd),0.254
+CL200,COM6,30,82.5,Color - U',0.206
+CL200,COM6,30,82.5,Color - V',0.4876
+CL200,COM6,30,82.5,Color - CorrelatedTemp,5174
+CL200,COM6,30,82.5,Color - DeltaUV,0.0052
+T10,COM7,40,82.5,Illuminance - Ev (fcd),0.251
+CL200,COM6,40,82.5,Color - U',0.2061
+CL200,COM6,40,82.5,Color - V',0.4877
+CL200,COM6,40,82.5,Color - CorrelatedTemp,5168
+CL200,COM6,40,82.5,Color - DeltaUV,0.0052
+T10,COM7,50,82.5,Illuminance - Ev (fcd),0.255
+CL200,COM6,50,82.5,Color - U',0.2059
+CL200,COM6,50,82.5,Color - V',0.4877
+CL200,COM6,50,82.5,Color - CorrelatedTemp,5176
+CL200,COM6,50,82.5,Color - DeltaUV,0.0054
+T10,COM7,60,82.5,Illuminance - Ev (fcd),0.269
+CL200,COM6,60,82.5,Color - U',0.206
+CL200,COM6,60,82.5,Color - V',0.4877
+CL200,COM6,60,82.5,Color - CorrelatedTemp,5173
+CL200,COM6,60,82.5,Color - DeltaUV,0.0053
+T10,COM7,70,82.5,Illuminance - Ev (fcd),0.286
+CL200,COM6,70,82.5,Color - U',0.2062
+CL200,COM6,70,82.5,Color - V',0.4876
+CL200,COM6,70,82.5,Color - CorrelatedTemp,5169
+CL200,COM6,70,82.5,Color - DeltaUV,0.0051
+T10,COM7,80,82.5,Illuminance - Ev (fcd),0.294
+CL200,COM6,80,82.5,Color - U',0.2061
+CL200,COM6,80,82.5,Color - V',0.4872
+CL200,COM6,80,82.5,Color - CorrelatedTemp,5184
+CL200,COM6,80,82.5,Color - DeltaUV,0.005
+T10,COM7,90,82.5,Illuminance - Ev (fcd),0.292
+CL200,COM6,90,82.5,Color - U',0.2062
+CL200,COM6,90,82.5,Color - V',0.4871
+CL200,COM6,90,82.5,Color - CorrelatedTemp,5183
+CL200,COM6,90,82.5,Color - DeltaUV,0.0049
+T10,COM7,100,82.5,Illuminance - Ev (fcd),0.295
+CL200,COM6,100,82.5,Color - U',0.206
+CL200,COM6,100,82.5,Color - V',0.4873
+CL200,COM6,100,82.5,Color - CorrelatedTemp,5185
+CL200,COM6,100,82.5,Color - DeltaUV,0.0051
+T10,COM7,110,82.5,Illuminance - Ev (fcd),0.294
+CL200,COM6,110,82.5,Color - U',0.2061
+CL200,COM6,110,82.5,Color - V',0.4874
+CL200,COM6,110,82.5,Color - CorrelatedTemp,5177
+CL200,COM6,110,82.5,Color - DeltaUV,0.005
+T10,COM7,120,82.5,Illuminance - Ev (fcd),0.276
+CL200,COM6,120,82.5,Color - U',0.206
+CL200,COM6,120,82.5,Color - V',0.4874
+CL200,COM6,120,82.5,Color - CorrelatedTemp,5183
+CL200,COM6,120,82.5,Color - DeltaUV,0.0051
+T10,COM7,130,82.5,Illuminance - Ev (fcd),0.266
+CL200,COM6,130,82.5,Color - U',0.2061
+CL200,COM6,130,82.5,Color - V',0.4874
+CL200,COM6,130,82.5,Color - CorrelatedTemp,5178
+CL200,COM6,130,82.5,Color - DeltaUV,0.0051
+T10,COM7,140,82.5,Illuminance - Ev (fcd),0.263
+CL200,COM6,140,82.5,Color - U',0.2058
+CL200,COM6,140,82.5,Color - V',0.4875
+CL200,COM6,140,82.5,Color - CorrelatedTemp,5186
+CL200,COM6,140,82.5,Color - DeltaUV,0.0053
+T10,COM7,150,82.5,Illuminance - Ev (fcd),0.268
+CL200,COM6,150,82.5,Color - U',0.2061
+CL200,COM6,150,82.5,Color - V',0.4874
+CL200,COM6,150,82.5,Color - CorrelatedTemp,5178
+CL200,COM6,150,82.5,Color - DeltaUV,0.0051
+T10,COM7,160,82.5,Illuminance - Ev (fcd),0.268
+CL200,COM6,160,82.5,Color - U',0.206
+CL200,COM6,160,82.5,Color - V',0.4877
+CL200,COM6,160,82.5,Color - CorrelatedTemp,5173
+CL200,COM6,160,82.5,Color - DeltaUV,0.0053
+T10,COM7,170,82.5,Illuminance - Ev (fcd),0.282
+CL200,COM6,170,82.5,Color - U',0.2059
+CL200,COM6,170,82.5,Color - V',0.4877
+CL200,COM6,170,82.5,Color - CorrelatedTemp,5176
+CL200,COM6,170,82.5,Color - DeltaUV,0.0053
+T10,COM7,180,82.5,Illuminance - Ev (fcd),0.296
+CL200,COM6,180,82.5,Color - U',0.2062
+CL200,COM6,180,82.5,Color - V',0.4877
+CL200,COM6,180,82.5,Color - CorrelatedTemp,5163
+CL200,COM6,180,82.5,Color - DeltaUV,0.0052
+T10,COM7,190,82.5,Illuminance - Ev (fcd),0.291
+CL200,COM6,190,82.5,Color - U',0.206
+CL200,COM6,190,82.5,Color - V',0.4877
+CL200,COM6,190,82.5,Color - CorrelatedTemp,5172
+CL200,COM6,190,82.5,Color - DeltaUV,0.0053
+T10,COM7,200,82.5,Illuminance - Ev (fcd),0.282
+CL200,COM6,200,82.5,Color - U',0.2061
+CL200,COM6,200,82.5,Color - V',0.4876
+CL200,COM6,200,82.5,Color - CorrelatedTemp,5170
+CL200,COM6,200,82.5,Color - DeltaUV,0.0051
+T10,COM7,210,82.5,Illuminance - Ev (fcd),0.298
+CL200,COM6,210,82.5,Color - U',0.2061
+CL200,COM6,210,82.5,Color - V',0.4876
+CL200,COM6,210,82.5,Color - CorrelatedTemp,5170
+CL200,COM6,210,82.5,Color - DeltaUV,0.0051
+T10,COM7,220,82.5,Illuminance - Ev (fcd),0.298
+CL200,COM6,220,82.5,Color - U',0.2059
+CL200,COM6,220,82.5,Color - V',0.4877
+CL200,COM6,220,82.5,Color - CorrelatedTemp,5177
+CL200,COM6,220,82.5,Color - DeltaUV,0.0053
+T10,COM7,230,82.5,Illuminance - Ev (fcd),0.308
+CL200,COM6,230,82.5,Color - U',0.2059
+CL200,COM6,230,82.5,Color - V',0.4876
+CL200,COM6,230,82.5,Color - CorrelatedTemp,5179
+CL200,COM6,230,82.5,Color - DeltaUV,0.0053
+T10,COM7,240,82.5,Illuminance - Ev (fcd),0.318
+CL200,COM6,240,82.5,Color - U',0.206
+CL200,COM6,240,82.5,Color - V',0.4875
+CL200,COM6,240,82.5,Color - CorrelatedTemp,5178
+CL200,COM6,240,82.5,Color - DeltaUV,0.0052
+T10,COM7,250,82.5,Illuminance - Ev (fcd),0.343
+CL200,COM6,250,82.5,Color - U',0.2059
+CL200,COM6,250,82.5,Color - V',0.4874
+CL200,COM6,250,82.5,Color - CorrelatedTemp,5185
+CL200,COM6,250,82.5,Color - DeltaUV,0.0052
+T10,COM7,260,82.5,Illuminance - Ev (fcd),0.349
+CL200,COM6,260,82.5,Color - U',0.2059
+CL200,COM6,260,82.5,Color - V',0.4873
+CL200,COM6,260,82.5,Color - CorrelatedTemp,5189
+CL200,COM6,260,82.5,Color - DeltaUV,0.0051
+T10,COM7,270,82.5,Illuminance - Ev (fcd),0.357
+CL200,COM6,270,82.5,Color - U',0.206
+CL200,COM6,270,82.5,Color - V',0.4873
+CL200,COM6,270,82.5,Color - CorrelatedTemp,5186
+CL200,COM6,270,82.5,Color - DeltaUV,0.0051
+T10,COM7,280,82.5,Illuminance - Ev (fcd),0.344
+CL200,COM6,280,82.5,Color - U',0.206
+CL200,COM6,280,82.5,Color - V',0.4874
+CL200,COM6,280,82.5,Color - CorrelatedTemp,5182
+CL200,COM6,280,82.5,Color - DeltaUV,0.0052
+T10,COM7,290,82.5,Illuminance - Ev (fcd),0.324
+CL200,COM6,290,82.5,Color - U',0.2061
+CL200,COM6,290,82.5,Color - V',0.4876
+CL200,COM6,290,82.5,Color - CorrelatedTemp,5169
+CL200,COM6,290,82.5,Color - DeltaUV,0.0051
+T10,COM7,300,82.5,Illuminance - Ev (fcd),0.294
+CL200,COM6,300,82.5,Color - U',0.2058
+CL200,COM6,300,82.5,Color - V',0.4876
+CL200,COM6,300,82.5,Color - CorrelatedTemp,5183
+CL200,COM6,300,82.5,Color - DeltaUV,0.0054
+T10,COM7,310,82.5,Illuminance - Ev (fcd),0.284
+CL200,COM6,310,82.5,Color - U',0.206
+CL200,COM6,310,82.5,Color - V',0.4877
+CL200,COM6,310,82.5,Color - CorrelatedTemp,5171
+CL200,COM6,310,82.5,Color - DeltaUV,0.0053
+T10,COM7,320,82.5,Illuminance - Ev (fcd),0.276
+CL200,COM6,320,82.5,Color - U',0.2062
+CL200,COM6,320,82.5,Color - V',0.4878
+CL200,COM6,320,82.5,Color - CorrelatedTemp,5159
+CL200,COM6,320,82.5,Color - DeltaUV,0.0052
+T10,COM7,330,82.5,Illuminance - Ev (fcd),0.276
+CL200,COM6,330,82.5,Color - U',0.2062
+CL200,COM6,330,82.5,Color - V',0.4877
+CL200,COM6,330,82.5,Color - CorrelatedTemp,5163
+CL200,COM6,330,82.5,Color - DeltaUV,0.0052
+T10,COM7,340,82.5,Illuminance - Ev (fcd),0.279
+CL200,COM6,340,82.5,Color - U',0.2061
+CL200,COM6,340,82.5,Color - V',0.4878
+CL200,COM6,340,82.5,Color - CorrelatedTemp,5165
+CL200,COM6,340,82.5,Color - DeltaUV,0.0053
+T10,COM7,350,82.5,Illuminance - Ev (fcd),0.288
+CL200,COM6,350,82.5,Color - U',0.206
+CL200,COM6,350,82.5,Color - V',0.4879
+CL200,COM6,350,82.5,Color - CorrelatedTemp,5163
+CL200,COM6,350,82.5,Color - DeltaUV,0.0054
+T10,COM7,360,82.5,Illuminance - Ev (fcd),0.287
+CL200,COM6,360,82.5,Color - U',0.2065
+CL200,COM6,360,82.5,Color - V',0.4879
+CL200,COM6,360,82.5,Color - CorrelatedTemp,5141
+CL200,COM6,360,82.5,Color - DeltaUV,0.0051
+T10,COM7,0,85,Illuminance - Ev (fcd),0.22
+CL200,COM6,0,85,Color - U',0.2061
+CL200,COM6,0,85,Color - V',0.4875
+CL200,COM6,0,85,Color - CorrelatedTemp,5174
+CL200,COM6,0,85,Color - DeltaUV,0.0051
+T10,COM7,10,85,Illuminance - Ev (fcd),0.217
+CL200,COM6,10,85,Color - U',0.2061
+CL200,COM6,10,85,Color - V',0.4875
+CL200,COM6,10,85,Color - CorrelatedTemp,5172
+CL200,COM6,10,85,Color - DeltaUV,0.0051
+T10,COM7,20,85,Illuminance - Ev (fcd),0.206
+CL200,COM6,20,85,Color - U',0.2061
+CL200,COM6,20,85,Color - V',0.4875
+CL200,COM6,20,85,Color - CorrelatedTemp,5172
+CL200,COM6,20,85,Color - DeltaUV,0.0051
+T10,COM7,30,85,Illuminance - Ev (fcd),0.196
+CL200,COM6,30,85,Color - U',0.2061
+CL200,COM6,30,85,Color - V',0.4873
+CL200,COM6,30,85,Color - CorrelatedTemp,5182
+CL200,COM6,30,85,Color - DeltaUV,0.0051
+T10,COM7,40,85,Illuminance - Ev (fcd),0.192
+CL200,COM6,40,85,Color - U',0.2059
+CL200,COM6,40,85,Color - V',0.4873
+CL200,COM6,40,85,Color - CorrelatedTemp,5191
+CL200,COM6,40,85,Color - DeltaUV,0.0052
+T10,COM7,50,85,Illuminance - Ev (fcd),0.198
+CL200,COM6,50,85,Color - U',0.2059
+CL200,COM6,50,85,Color - V',0.4873
+CL200,COM6,50,85,Color - CorrelatedTemp,5188
+CL200,COM6,50,85,Color - DeltaUV,0.0052
+T10,COM7,60,85,Illuminance - Ev (fcd),0.208
+CL200,COM6,60,85,Color - U',0.2061
+CL200,COM6,60,85,Color - V',0.4873
+CL200,COM6,60,85,Color - CorrelatedTemp,5178
+CL200,COM6,60,85,Color - DeltaUV,0.005
+T10,COM7,70,85,Illuminance - Ev (fcd),0.217
+CL200,COM6,70,85,Color - U',0.2061
+CL200,COM6,70,85,Color - V',0.4872
+CL200,COM6,70,85,Color - CorrelatedTemp,5185
+CL200,COM6,70,85,Color - DeltaUV,0.005
+T10,COM7,80,85,Illuminance - Ev (fcd),0.222
+CL200,COM6,80,85,Color - U',0.2062
+CL200,COM6,80,85,Color - V',0.4867
+CL200,COM6,80,85,Color - CorrelatedTemp,5196
+CL200,COM6,80,85,Color - DeltaUV,0.0047
+T10,COM7,90,85,Illuminance - Ev (fcd),0.213
+CL200,COM6,90,85,Color - U',0.2061
+CL200,COM6,90,85,Color - V',0.4868
+CL200,COM6,90,85,Color - CorrelatedTemp,5200
+CL200,COM6,90,85,Color - DeltaUV,0.0048
+T10,COM7,100,85,Illuminance - Ev (fcd),0.225
+CL200,COM6,100,85,Color - U',0.206
+CL200,COM6,100,85,Color - V',0.4866
+CL200,COM6,100,85,Color - CorrelatedTemp,5211
+CL200,COM6,100,85,Color - DeltaUV,0.0048
+T10,COM7,110,85,Illuminance - Ev (fcd),0.221
+CL200,COM6,110,85,Color - U',0.206
+CL200,COM6,110,85,Color - V',0.4871
+CL200,COM6,110,85,Color - CorrelatedTemp,5193
+CL200,COM6,110,85,Color - DeltaUV,0.0051
+T10,COM7,120,85,Illuminance - Ev (fcd),0.214
+CL200,COM6,120,85,Color - U',0.206
+CL200,COM6,120,85,Color - V',0.4872
+CL200,COM6,120,85,Color - CorrelatedTemp,5191
+CL200,COM6,120,85,Color - DeltaUV,0.0051
+T10,COM7,130,85,Illuminance - Ev (fcd),0.202
+CL200,COM6,130,85,Color - U',0.2058
+CL200,COM6,130,85,Color - V',0.487
+CL200,COM6,130,85,Color - CorrelatedTemp,5205
+CL200,COM6,130,85,Color - DeltaUV,0.0051
+T10,COM7,140,85,Illuminance - Ev (fcd),0.198
+CL200,COM6,140,85,Color - U',0.2059
+CL200,COM6,140,85,Color - V',0.4872
+CL200,COM6,140,85,Color - CorrelatedTemp,5191
+CL200,COM6,140,85,Color - DeltaUV,0.0051
+T10,COM7,150,85,Illuminance - Ev (fcd),0.208
+CL200,COM6,150,85,Color - U',0.2059
+CL200,COM6,150,85,Color - V',0.4872
+CL200,COM6,150,85,Color - CorrelatedTemp,5192
+CL200,COM6,150,85,Color - DeltaUV,0.0051
+T10,COM7,160,85,Illuminance - Ev (fcd),0.213
+CL200,COM6,160,85,Color - U',0.2059
+CL200,COM6,160,85,Color - V',0.4873
+CL200,COM6,160,85,Color - CorrelatedTemp,5191
+CL200,COM6,160,85,Color - DeltaUV,0.0051
+T10,COM7,170,85,Illuminance - Ev (fcd),0.223
+CL200,COM6,170,85,Color - U',0.2059
+CL200,COM6,170,85,Color - V',0.4874
+CL200,COM6,170,85,Color - CorrelatedTemp,5186
+CL200,COM6,170,85,Color - DeltaUV,0.0052
+T10,COM7,180,85,Illuminance - Ev (fcd),0.231
+CL200,COM6,180,85,Color - U',0.2061
+CL200,COM6,180,85,Color - V',0.4873
+CL200,COM6,180,85,Color - CorrelatedTemp,5184
+CL200,COM6,180,85,Color - DeltaUV,0.005
+T10,COM7,190,85,Illuminance - Ev (fcd),0.233
+CL200,COM6,190,85,Color - U',0.2061
+CL200,COM6,190,85,Color - V',0.4875
+CL200,COM6,190,85,Color - CorrelatedTemp,5172
+CL200,COM6,190,85,Color - DeltaUV,0.0051
+T10,COM7,200,85,Illuminance - Ev (fcd),0.229
+CL200,COM6,200,85,Color - U',0.206
+CL200,COM6,200,85,Color - V',0.4874
+CL200,COM6,200,85,Color - CorrelatedTemp,5181
+CL200,COM6,200,85,Color - DeltaUV,0.0051
+T10,COM7,210,85,Illuminance - Ev (fcd),0.24
+CL200,COM6,210,85,Color - U',0.206
+CL200,COM6,210,85,Color - V',0.4873
+CL200,COM6,210,85,Color - CorrelatedTemp,5183
+CL200,COM6,210,85,Color - DeltaUV,0.0051
+T10,COM7,220,85,Illuminance - Ev (fcd),0.239
+CL200,COM6,220,85,Color - U',0.206
+CL200,COM6,220,85,Color - V',0.4873
+CL200,COM6,220,85,Color - CorrelatedTemp,5187
+CL200,COM6,220,85,Color - DeltaUV,0.0051
+T10,COM7,230,85,Illuminance - Ev (fcd),0.25
+CL200,COM6,230,85,Color - U',0.206
+CL200,COM6,230,85,Color - V',0.4873
+CL200,COM6,230,85,Color - CorrelatedTemp,5187
+CL200,COM6,230,85,Color - DeltaUV,0.0051
+T10,COM7,240,85,Illuminance - Ev (fcd),0.264
+CL200,COM6,240,85,Color - U',0.2061
+CL200,COM6,240,85,Color - V',0.4872
+CL200,COM6,240,85,Color - CorrelatedTemp,5187
+CL200,COM6,240,85,Color - DeltaUV,0.005
+T10,COM7,250,85,Illuminance - Ev (fcd),0.282
+CL200,COM6,250,85,Color - U',0.2061
+CL200,COM6,250,85,Color - V',0.487
+CL200,COM6,250,85,Color - CorrelatedTemp,5189
+CL200,COM6,250,85,Color - DeltaUV,0.0049
+T10,COM7,260,85,Illuminance - Ev (fcd),0.283
+CL200,COM6,260,85,Color - U',0.2061
+CL200,COM6,260,85,Color - V',0.4868
+CL200,COM6,260,85,Color - CorrelatedTemp,5199
+CL200,COM6,260,85,Color - DeltaUV,0.0048
+T10,COM7,270,85,Illuminance - Ev (fcd),0.285
+CL200,COM6,270,85,Color - U',0.2062
+CL200,COM6,270,85,Color - V',0.4869
+CL200,COM6,270,85,Color - CorrelatedTemp,5193
+CL200,COM6,270,85,Color - DeltaUV,0.0048
+T10,COM7,280,85,Illuminance - Ev (fcd),0.281
+CL200,COM6,280,85,Color - U',0.2062
+CL200,COM6,280,85,Color - V',0.487
+CL200,COM6,280,85,Color - CorrelatedTemp,5186
+CL200,COM6,280,85,Color - DeltaUV,0.0048
+T10,COM7,290,85,Illuminance - Ev (fcd),0.266
+CL200,COM6,290,85,Color - U',0.2062
+CL200,COM6,290,85,Color - V',0.4873
+CL200,COM6,290,85,Color - CorrelatedTemp,5175
+CL200,COM6,290,85,Color - DeltaUV,0.0049
+T10,COM7,300,85,Illuminance - Ev (fcd),0.246
+CL200,COM6,300,85,Color - U',0.206
+CL200,COM6,300,85,Color - V',0.4873
+CL200,COM6,300,85,Color - CorrelatedTemp,5186
+CL200,COM6,300,85,Color - DeltaUV,0.0051
+T10,COM7,310,85,Illuminance - Ev (fcd),0.229
+CL200,COM6,310,85,Color - U',0.2058
+CL200,COM6,310,85,Color - V',0.4874
+CL200,COM6,310,85,Color - CorrelatedTemp,5191
+CL200,COM6,310,85,Color - DeltaUV,0.0052
+T10,COM7,320,85,Illuminance - Ev (fcd),0.22
+CL200,COM6,320,85,Color - U',0.2059
+CL200,COM6,320,85,Color - V',0.4875
+CL200,COM6,320,85,Color - CorrelatedTemp,5187
+CL200,COM6,320,85,Color - DeltaUV,0.0053
+T10,COM7,330,85,Illuminance - Ev (fcd),0.222
+CL200,COM6,330,85,Color - U',0.2063
+CL200,COM6,330,85,Color - V',0.4873
+CL200,COM6,330,85,Color - CorrelatedTemp,5173
+CL200,COM6,330,85,Color - DeltaUV,0.0049
+T10,COM7,340,85,Illuminance - Ev (fcd),0.221
+CL200,COM6,340,85,Color - U',0.2062
+CL200,COM6,340,85,Color - V',0.4875
+CL200,COM6,340,85,Color - CorrelatedTemp,5171
+CL200,COM6,340,85,Color - DeltaUV,0.0051
+T10,COM7,350,85,Illuminance - Ev (fcd),0.226
+CL200,COM6,350,85,Color - U',0.2063
+CL200,COM6,350,85,Color - V',0.4874
+CL200,COM6,350,85,Color - CorrelatedTemp,5170
+CL200,COM6,350,85,Color - DeltaUV,0.005
+T10,COM7,360,85,Illuminance - Ev (fcd),0.22
+CL200,COM6,360,85,Color - U',0.2061
+CL200,COM6,360,85,Color - V',0.4874
+CL200,COM6,360,85,Color - CorrelatedTemp,5175
+CL200,COM6,360,85,Color - DeltaUV,0.005
+T10,COM7,0,87.5,Illuminance - Ev (fcd),0.154
+CL200,COM6,0,87.5,Color - U',0.2058
+CL200,COM6,0,87.5,Color - V',0.4867
+CL200,COM6,0,87.5,Color - CorrelatedTemp,5218
+CL200,COM6,0,87.5,Color - DeltaUV,0.005
+T10,COM7,10,87.5,Illuminance - Ev (fcd),0.15
+CL200,COM6,10,87.5,Color - U',0.2059
+CL200,COM6,10,87.5,Color - V',0.4868
+CL200,COM6,10,87.5,Color - CorrelatedTemp,5207
+CL200,COM6,10,87.5,Color - DeltaUV,0.005
+T10,COM7,20,87.5,Illuminance - Ev (fcd),0.142
+CL200,COM6,20,87.5,Color - U',0.2059
+CL200,COM6,20,87.5,Color - V',0.4868
+CL200,COM6,20,87.5,Color - CorrelatedTemp,5207
+CL200,COM6,20,87.5,Color - DeltaUV,0.0049
+T10,COM7,30,87.5,Illuminance - Ev (fcd),0.133
+CL200,COM6,30,87.5,Color - U',0.2053
+CL200,COM6,30,87.5,Color - V',0.4867
+CL200,COM6,30,87.5,Color - CorrelatedTemp,5243
+CL200,COM6,30,87.5,Color - DeltaUV,0.0053
+T10,COM7,40,87.5,Illuminance - Ev (fcd),0.129
+CL200,COM6,40,87.5,Color - U',0.2059
+CL200,COM6,40,87.5,Color - V',0.4865
+CL200,COM6,40,87.5,Color - CorrelatedTemp,5219
+CL200,COM6,40,87.5,Color - DeltaUV,0.0048
+T10,COM7,50,87.5,Illuminance - Ev (fcd),0.13
+CL200,COM6,50,87.5,Color - U',0.2054
+CL200,COM6,50,87.5,Color - V',0.4865
+CL200,COM6,50,87.5,Color - CorrelatedTemp,5246
+CL200,COM6,50,87.5,Color - DeltaUV,0.0052
+T10,COM7,60,87.5,Illuminance - Ev (fcd),0.13
+CL200,COM6,60,87.5,Color - U',0.2053
+CL200,COM6,60,87.5,Color - V',0.4867
+CL200,COM6,60,87.5,Color - CorrelatedTemp,5241
+CL200,COM6,60,87.5,Color - DeltaUV,0.0053
+T10,COM7,70,87.5,Illuminance - Ev (fcd),0.132
+CL200,COM6,70,87.5,Color - U',0.2058
+CL200,COM6,70,87.5,Color - V',0.4863
+CL200,COM6,70,87.5,Color - CorrelatedTemp,5229
+CL200,COM6,70,87.5,Color - DeltaUV,0.0048
+T10,COM7,80,87.5,Illuminance - Ev (fcd),0.135
+CL200,COM6,80,87.5,Color - U',0.2056
+CL200,COM6,80,87.5,Color - V',0.4861
+CL200,COM6,80,87.5,Color - CorrelatedTemp,5250
+CL200,COM6,80,87.5,Color - DeltaUV,0.0048
+T10,COM7,90,87.5,Illuminance - Ev (fcd),0.127
+CL200,COM6,90,87.5,Color - U',0.2057
+CL200,COM6,90,87.5,Color - V',0.4861
+CL200,COM6,90,87.5,Color - CorrelatedTemp,5244
+CL200,COM6,90,87.5,Color - DeltaUV,0.0048
+T10,COM7,100,87.5,Illuminance - Ev (fcd),0.136
+CL200,COM6,100,87.5,Color - U',0.2059
+CL200,COM6,100,87.5,Color - V',0.4859
+CL200,COM6,100,87.5,Color - CorrelatedTemp,5238
+CL200,COM6,100,87.5,Color - DeltaUV,0.0046
+T10,COM7,110,87.5,Illuminance - Ev (fcd),0.132
+CL200,COM6,110,87.5,Color - U',0.2057
+CL200,COM6,110,87.5,Color - V',0.4864
+CL200,COM6,110,87.5,Color - CorrelatedTemp,5230
+CL200,COM6,110,87.5,Color - DeltaUV,0.0049
+T10,COM7,120,87.5,Illuminance - Ev (fcd),0.131
+CL200,COM6,120,87.5,Color - U',0.2054
+CL200,COM6,120,87.5,Color - V',0.4865
+CL200,COM6,120,87.5,Color - CorrelatedTemp,5243
+CL200,COM6,120,87.5,Color - DeltaUV,0.0052
+T10,COM7,130,87.5,Illuminance - Ev (fcd),0.129
+CL200,COM6,130,87.5,Color - U',0.2058
+CL200,COM6,130,87.5,Color - V',0.4862
+CL200,COM6,130,87.5,Color - CorrelatedTemp,5233
+CL200,COM6,130,87.5,Color - DeltaUV,0.0048
+T10,COM7,140,87.5,Illuminance - Ev (fcd),0.129
+CL200,COM6,140,87.5,Color - U',0.206
+CL200,COM6,140,87.5,Color - V',0.4863
+CL200,COM6,140,87.5,Color - CorrelatedTemp,5221
+CL200,COM6,140,87.5,Color - DeltaUV,0.0047
+T10,COM7,150,87.5,Illuminance - Ev (fcd),0.14
+CL200,COM6,150,87.5,Color - U',0.2056
+CL200,COM6,150,87.5,Color - V',0.4864
+CL200,COM6,150,87.5,Color - CorrelatedTemp,5234
+CL200,COM6,150,87.5,Color - DeltaUV,0.005
+T10,COM7,160,87.5,Illuminance - Ev (fcd),0.147
+CL200,COM6,160,87.5,Color - U',0.2056
+CL200,COM6,160,87.5,Color - V',0.4867
+CL200,COM6,160,87.5,Color - CorrelatedTemp,5227
+CL200,COM6,160,87.5,Color - DeltaUV,0.0052
+T10,COM7,170,87.5,Illuminance - Ev (fcd),0.157
+CL200,COM6,170,87.5,Color - U',0.2058
+CL200,COM6,170,87.5,Color - V',0.4867
+CL200,COM6,170,87.5,Color - CorrelatedTemp,5218
+CL200,COM6,170,87.5,Color - DeltaUV,0.005
+T10,COM7,180,87.5,Illuminance - Ev (fcd),0.161
+CL200,COM6,180,87.5,Color - U',0.2059
+CL200,COM6,180,87.5,Color - V',0.4866
+CL200,COM6,180,87.5,Color - CorrelatedTemp,5215
+CL200,COM6,180,87.5,Color - DeltaUV,0.0049
+T10,COM7,190,87.5,Illuminance - Ev (fcd),0.171
+CL200,COM6,190,87.5,Color - U',0.2057
+CL200,COM6,190,87.5,Color - V',0.4869
+CL200,COM6,190,87.5,Color - CorrelatedTemp,5212
+CL200,COM6,190,87.5,Color - DeltaUV,0.0051
+T10,COM7,200,87.5,Illuminance - Ev (fcd),0.17
+CL200,COM6,200,87.5,Color - U',0.2058
+CL200,COM6,200,87.5,Color - V',0.4871
+CL200,COM6,200,87.5,Color - CorrelatedTemp,5202
+CL200,COM6,200,87.5,Color - DeltaUV,0.0051
+T10,COM7,210,87.5,Illuminance - Ev (fcd),0.175
+CL200,COM6,210,87.5,Color - U',0.206
+CL200,COM6,210,87.5,Color - V',0.4868
+CL200,COM6,210,87.5,Color - CorrelatedTemp,5203
+CL200,COM6,210,87.5,Color - DeltaUV,0.0049
+T10,COM7,220,87.5,Illuminance - Ev (fcd),0.173
+CL200,COM6,220,87.5,Color - U',0.2059
+CL200,COM6,220,87.5,Color - V',0.4869
+CL200,COM6,220,87.5,Color - CorrelatedTemp,5208
+CL200,COM6,220,87.5,Color - DeltaUV,0.005
+T10,COM7,230,87.5,Illuminance - Ev (fcd),0.185
+CL200,COM6,230,87.5,Color - U',0.2056
+CL200,COM6,230,87.5,Color - V',0.4869
+CL200,COM6,230,87.5,Color - CorrelatedTemp,5218
+CL200,COM6,230,87.5,Color - DeltaUV,0.0052
+T10,COM7,240,87.5,Illuminance - Ev (fcd),0.195
+CL200,COM6,240,87.5,Color - U',0.2062
+CL200,COM6,240,87.5,Color - V',0.4868
+CL200,COM6,240,87.5,Color - CorrelatedTemp,5192
+CL200,COM6,240,87.5,Color - DeltaUV,0.0047
+T10,COM7,250,87.5,Illuminance - Ev (fcd),0.209
+CL200,COM6,250,87.5,Color - U',0.206
+CL200,COM6,250,87.5,Color - V',0.4865
+CL200,COM6,250,87.5,Color - CorrelatedTemp,5215
+CL200,COM6,250,87.5,Color - DeltaUV,0.0048
+T10,COM7,260,87.5,Illuminance - Ev (fcd),0.209
+CL200,COM6,260,87.5,Color - U',0.206
+CL200,COM6,260,87.5,Color - V',0.4862
+CL200,COM6,260,87.5,Color - CorrelatedTemp,5224
+CL200,COM6,260,87.5,Color - DeltaUV,0.0046
+T10,COM7,270,87.5,Illuminance - Ev (fcd),0.201
+CL200,COM6,270,87.5,Color - U',0.2061
+CL200,COM6,270,87.5,Color - V',0.4864
+CL200,COM6,270,87.5,Color - CorrelatedTemp,5211
+CL200,COM6,270,87.5,Color - DeltaUV,0.0046
+T10,COM7,280,87.5,Illuminance - Ev (fcd),0.209
+CL200,COM6,280,87.5,Color - U',0.206
+CL200,COM6,280,87.5,Color - V',0.4864
+CL200,COM6,280,87.5,Color - CorrelatedTemp,5218
+CL200,COM6,280,87.5,Color - DeltaUV,0.0047
+T10,COM7,290,87.5,Illuminance - Ev (fcd),0.194
+CL200,COM6,290,87.5,Color - U',0.2058
+CL200,COM6,290,87.5,Color - V',0.4867
+CL200,COM6,290,87.5,Color - CorrelatedTemp,5213
+CL200,COM6,290,87.5,Color - DeltaUV,0.0049
+T10,COM7,300,87.5,Illuminance - Ev (fcd),0.184
+CL200,COM6,300,87.5,Color - U',0.2057
+CL200,COM6,300,87.5,Color - V',0.487
+CL200,COM6,300,87.5,Color - CorrelatedTemp,5208
+CL200,COM6,300,87.5,Color - DeltaUV,0.0051
+T10,COM7,310,87.5,Illuminance - Ev (fcd),0.17
+CL200,COM6,310,87.5,Color - U',0.2058
+CL200,COM6,310,87.5,Color - V',0.4868
+CL200,COM6,310,87.5,Color - CorrelatedTemp,5214
+CL200,COM6,310,87.5,Color - DeltaUV,0.0051
+T10,COM7,320,87.5,Illuminance - Ev (fcd),0.16
+CL200,COM6,320,87.5,Color - U',0.206
+CL200,COM6,320,87.5,Color - V',0.4869
+CL200,COM6,320,87.5,Color - CorrelatedTemp,5198
+CL200,COM6,320,87.5,Color - DeltaUV,0.0049
+T10,COM7,330,87.5,Illuminance - Ev (fcd),0.165
+CL200,COM6,330,87.5,Color - U',0.206
+CL200,COM6,330,87.5,Color - V',0.4868
+CL200,COM6,330,87.5,Color - CorrelatedTemp,5200
+CL200,COM6,330,87.5,Color - DeltaUV,0.0048
+T10,COM7,340,87.5,Illuminance - Ev (fcd),0.161
+CL200,COM6,340,87.5,Color - U',0.2058
+CL200,COM6,340,87.5,Color - V',0.487
+CL200,COM6,340,87.5,Color - CorrelatedTemp,5206
+CL200,COM6,340,87.5,Color - DeltaUV,0.0051
+T10,COM7,350,87.5,Illuminance - Ev (fcd),0.161
+CL200,COM6,350,87.5,Color - U',0.2064
+CL200,COM6,350,87.5,Color - V',0.4867
+CL200,COM6,350,87.5,Color - CorrelatedTemp,5185
+CL200,COM6,350,87.5,Color - DeltaUV,0.0045
+T10,COM7,360,87.5,Illuminance - Ev (fcd),0.154
+CL200,COM6,360,87.5,Color - U',0.206
+CL200,COM6,360,87.5,Color - V',0.4868
+CL200,COM6,360,87.5,Color - CorrelatedTemp,5202
+CL200,COM6,360,87.5,Color - DeltaUV,0.0048
+T10,COM7,0,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,0,90,Color - U',0.2047
+CL200,COM6,0,90,Color - V',0.4858
+CL200,COM6,0,90,Color - CorrelatedTemp,5304
+CL200,COM6,0,90,Color - DeltaUV,0.0053
+T10,COM7,10,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,10,90,Color - U',0.2052
+CL200,COM6,10,90,Color - V',0.4857
+CL200,COM6,10,90,Color - CorrelatedTemp,5281
+CL200,COM6,10,90,Color - DeltaUV,0.0049
+T10,COM7,20,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,20,90,Color - U',0.2054
+CL200,COM6,20,90,Color - V',0.4856
+CL200,COM6,20,90,Color - CorrelatedTemp,5277
+CL200,COM6,20,90,Color - DeltaUV,0.0047
+T10,COM7,30,90,Illuminance - Ev (fcd),0.095
+CL200,COM6,30,90,Color - U',0.2048
+CL200,COM6,30,90,Color - V',0.486
+CL200,COM6,30,90,Color - CorrelatedTemp,5291
+CL200,COM6,30,90,Color - DeltaUV,0.0053
+T10,COM7,40,90,Illuminance - Ev (fcd),0.094
+CL200,COM6,40,90,Color - U',0.2051
+CL200,COM6,40,90,Color - V',0.4859
+CL200,COM6,40,90,Color - CorrelatedTemp,5281
+CL200,COM6,40,90,Color - DeltaUV,0.0051
+T10,COM7,50,90,Illuminance - Ev (fcd),0.092
+CL200,COM6,50,90,Color - U',0.2048
+CL200,COM6,50,90,Color - V',0.4857
+CL200,COM6,50,90,Color - CorrelatedTemp,5302
+CL200,COM6,50,90,Color - DeltaUV,0.0052
+T10,COM7,60,90,Illuminance - Ev (fcd),0.09
+CL200,COM6,60,90,Color - U',0.205
+CL200,COM6,60,90,Color - V',0.4859
+CL200,COM6,60,90,Color - CorrelatedTemp,5283
+CL200,COM6,60,90,Color - DeltaUV,0.0051
+T10,COM7,70,90,Illuminance - Ev (fcd),0.089
+CL200,COM6,70,90,Color - U',0.2054
+CL200,COM6,70,90,Color - V',0.4856
+CL200,COM6,70,90,Color - CorrelatedTemp,5274
+CL200,COM6,70,90,Color - DeltaUV,0.0047
+T10,COM7,80,90,Illuminance - Ev (fcd),0.088
+CL200,COM6,80,90,Color - U',0.2049
+CL200,COM6,80,90,Color - V',0.4857
+CL200,COM6,80,90,Color - CorrelatedTemp,5293
+CL200,COM6,80,90,Color - DeltaUV,0.0051
+T10,COM7,90,90,Illuminance - Ev (fcd),0.087
+CL200,COM6,90,90,Color - U',0.2053
+CL200,COM6,90,90,Color - V',0.4858
+CL200,COM6,90,90,Color - CorrelatedTemp,5277
+CL200,COM6,90,90,Color - DeltaUV,0.0049
+T10,COM7,100,90,Illuminance - Ev (fcd),0.087
+CL200,COM6,100,90,Color - U',0.2047
+CL200,COM6,100,90,Color - V',0.486
+CL200,COM6,100,90,Color - CorrelatedTemp,5295
+CL200,COM6,100,90,Color - DeltaUV,0.0055
+T10,COM7,110,90,Illuminance - Ev (fcd),0.088
+CL200,COM6,110,90,Color - U',0.2049
+CL200,COM6,110,90,Color - V',0.486
+CL200,COM6,110,90,Color - CorrelatedTemp,5286
+CL200,COM6,110,90,Color - DeltaUV,0.0052
+T10,COM7,120,90,Illuminance - Ev (fcd),0.089
+CL200,COM6,120,90,Color - U',0.2047
+CL200,COM6,120,90,Color - V',0.4857
+CL200,COM6,120,90,Color - CorrelatedTemp,5305
+CL200,COM6,120,90,Color - DeltaUV,0.0053
+T10,COM7,130,90,Illuminance - Ev (fcd),0.09
+CL200,COM6,130,90,Color - U',0.2052
+CL200,COM6,130,90,Color - V',0.4855
+CL200,COM6,130,90,Color - CorrelatedTemp,5286
+CL200,COM6,130,90,Color - DeltaUV,0.0048
+T10,COM7,140,90,Illuminance - Ev (fcd),0.091
+CL200,COM6,140,90,Color - U',0.2054
+CL200,COM6,140,90,Color - V',0.4855
+CL200,COM6,140,90,Color - CorrelatedTemp,5277
+CL200,COM6,140,90,Color - DeltaUV,0.0047
+T10,COM7,150,90,Illuminance - Ev (fcd),0.093
+CL200,COM6,150,90,Color - U',0.2046
+CL200,COM6,150,90,Color - V',0.4859
+CL200,COM6,150,90,Color - CorrelatedTemp,5306
+CL200,COM6,150,90,Color - DeltaUV,0.0054
+T10,COM7,160,90,Illuminance - Ev (fcd),0.094
+CL200,COM6,160,90,Color - U',0.2055
+CL200,COM6,160,90,Color - V',0.4857
+CL200,COM6,160,90,Color - CorrelatedTemp,5267
+CL200,COM6,160,90,Color - DeltaUV,0.0047
+T10,COM7,170,90,Illuminance - Ev (fcd),0.094
+CL200,COM6,170,90,Color - U',0.2054
+CL200,COM6,170,90,Color - V',0.4856
+CL200,COM6,170,90,Color - CorrelatedTemp,5274
+CL200,COM6,170,90,Color - DeltaUV,0.0047
+T10,COM7,180,90,Illuminance - Ev (fcd),0.096
+CL200,COM6,180,90,Color - U',0.2048
+CL200,COM6,180,90,Color - V',0.486
+CL200,COM6,180,90,Color - CorrelatedTemp,5291
+CL200,COM6,180,90,Color - DeltaUV,0.0053
+T10,COM7,190,90,Illuminance - Ev (fcd),0.099
+CL200,COM6,190,90,Color - U',0.2055
+CL200,COM6,190,90,Color - V',0.4857
+CL200,COM6,190,90,Color - CorrelatedTemp,5268
+CL200,COM6,190,90,Color - DeltaUV,0.0047
+T10,COM7,200,90,Illuminance - Ev (fcd),0.103
+CL200,COM6,200,90,Color - U',0.2055
+CL200,COM6,200,90,Color - V',0.4857
+CL200,COM6,200,90,Color - CorrelatedTemp,5266
+CL200,COM6,200,90,Color - DeltaUV,0.0047
+T10,COM7,210,90,Illuminance - Ev (fcd),0.106
+CL200,COM6,210,90,Color - U',0.2056
+CL200,COM6,210,90,Color - V',0.4858
+CL200,COM6,210,90,Color - CorrelatedTemp,5258
+CL200,COM6,210,90,Color - DeltaUV,0.0047
+T10,COM7,220,90,Illuminance - Ev (fcd),0.104
+CL200,COM6,220,90,Color - U',0.2051
+CL200,COM6,220,90,Color - V',0.486
+CL200,COM6,220,90,Color - CorrelatedTemp,5274
+CL200,COM6,220,90,Color - DeltaUV,0.0051
+T10,COM7,230,90,Illuminance - Ev (fcd),0.108
+CL200,COM6,230,90,Color - U',0.2055
+CL200,COM6,230,90,Color - V',0.4859
+CL200,COM6,230,90,Color - CorrelatedTemp,5260
+CL200,COM6,230,90,Color - DeltaUV,0.0048
+T10,COM7,240,90,Illuminance - Ev (fcd),0.112
+CL200,COM6,240,90,Color - U',0.2055
+CL200,COM6,240,90,Color - V',0.4859
+CL200,COM6,240,90,Color - CorrelatedTemp,5259
+CL200,COM6,240,90,Color - DeltaUV,0.0048
+T10,COM7,250,90,Illuminance - Ev (fcd),0.114
+CL200,COM6,250,90,Color - U',0.2056
+CL200,COM6,250,90,Color - V',0.4856
+CL200,COM6,250,90,Color - CorrelatedTemp,5263
+CL200,COM6,250,90,Color - DeltaUV,0.0046
+T10,COM7,260,90,Illuminance - Ev (fcd),0.112
+CL200,COM6,260,90,Color - U',0.2053
+CL200,COM6,260,90,Color - V',0.4855
+CL200,COM6,260,90,Color - CorrelatedTemp,5284
+CL200,COM6,260,90,Color - DeltaUV,0.0048
+T10,COM7,270,90,Illuminance - Ev (fcd),0.108
+CL200,COM6,270,90,Color - U',0.2053
+CL200,COM6,270,90,Color - V',0.4858
+CL200,COM6,270,90,Color - CorrelatedTemp,5274
+CL200,COM6,270,90,Color - DeltaUV,0.0049
+T10,COM7,280,90,Illuminance - Ev (fcd),0.108
+CL200,COM6,280,90,Color - U',0.2056
+CL200,COM6,280,90,Color - V',0.4856
+CL200,COM6,280,90,Color - CorrelatedTemp,5263
+CL200,COM6,280,90,Color - DeltaUV,0.0046
+T10,COM7,290,90,Illuminance - Ev (fcd),0.105
+CL200,COM6,290,90,Color - U',0.205
+CL200,COM6,290,90,Color - V',0.4857
+CL200,COM6,290,90,Color - CorrelatedTemp,5290
+CL200,COM6,290,90,Color - DeltaUV,0.0051
+T10,COM7,300,90,Illuminance - Ev (fcd),0.101
+CL200,COM6,300,90,Color - U',0.205
+CL200,COM6,300,90,Color - V',0.4858
+CL200,COM6,300,90,Color - CorrelatedTemp,5287
+CL200,COM6,300,90,Color - DeltaUV,0.0051
+T10,COM7,310,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,310,90,Color - U',0.2058
+CL200,COM6,310,90,Color - V',0.4857
+CL200,COM6,310,90,Color - CorrelatedTemp,5250
+CL200,COM6,310,90,Color - DeltaUV,0.0045
+T10,COM7,320,90,Illuminance - Ev (fcd),0.095
+CL200,COM6,320,90,Color - U',0.205
+CL200,COM6,320,90,Color - V',0.4854
+CL200,COM6,320,90,Color - CorrelatedTemp,5301
+CL200,COM6,320,90,Color - DeltaUV,0.0049
+T10,COM7,330,90,Illuminance - Ev (fcd),0.096
+CL200,COM6,330,90,Color - U',0.2048
+CL200,COM6,330,90,Color - V',0.4856
+CL200,COM6,330,90,Color - CorrelatedTemp,5305
+CL200,COM6,330,90,Color - DeltaUV,0.0051
+T10,COM7,340,90,Illuminance - Ev (fcd),0.096
+CL200,COM6,340,90,Color - U',0.2048
+CL200,COM6,340,90,Color - V',0.4855
+CL200,COM6,340,90,Color - CorrelatedTemp,5312
+CL200,COM6,340,90,Color - DeltaUV,0.0051
+T10,COM7,350,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,350,90,Color - U',0.205
+CL200,COM6,350,90,Color - V',0.4854
+CL200,COM6,350,90,Color - CorrelatedTemp,5303
+CL200,COM6,350,90,Color - DeltaUV,0.0049
+T10,COM7,360,90,Illuminance - Ev (fcd),0.097
+CL200,COM6,360,90,Color - U',0.2056
+CL200,COM6,360,90,Color - V',0.4853
+CL200,COM6,360,90,Color - CorrelatedTemp,5275
+CL200,COM6,360,90,Color - DeltaUV,0.0044
